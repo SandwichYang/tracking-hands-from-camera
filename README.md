@@ -2,4 +2,6 @@
 >1. pip install opencv-python
 >2. pip install mediapipe
 
-基于OpenCV + MediaPipe 手部追踪，感谢GrandmaCan提供的教程
+基于OpenCV + MediaPipe 手部追踪，也可以识别zmy的玉足（
+
+感谢GrandmaCan提供的教程
